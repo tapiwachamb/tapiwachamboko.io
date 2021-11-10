@@ -1,47 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbc2a645101956d9e29b93150ec5b325",
+    "revision": "e265a0092c1056ce60cd1ee9cd026707",
     "url": "./index.html"
   },
   {
-    "revision": "32a506c801dbb5a7dbf7",
+    "revision": "305a2b65cf913038527a",
     "url": "./static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "97cd6f2b4fee594c3e4b",
+    "revision": "c8c082b220c2ea2b3b79",
     "url": "./static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "99c914a4a9895d014618",
+    "revision": "82f86adafcfc4dcafad2",
     "url": "./static/css/main.f6325dae.chunk.css"
   },
   {
-    "revision": "9b60bff6584b4f903071",
-    "url": "./static/js/2.15055598.chunk.js"
+    "revision": "24caf7411a64d9980045",
+    "url": "./static/js/2.1fdb3d75.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "./static/js/2.15055598.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.1fdb3d75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32a506c801dbb5a7dbf7",
-    "url": "./static/js/3.298511a0.chunk.js"
+    "revision": "305a2b65cf913038527a",
+    "url": "./static/js/3.510b9d5a.chunk.js"
   },
   {
-    "revision": "97cd6f2b4fee594c3e4b",
-    "url": "./static/js/4.69175372.chunk.js"
+    "revision": "c8c082b220c2ea2b3b79",
+    "url": "./static/js/4.9e4abe19.chunk.js"
   },
   {
-    "revision": "99c914a4a9895d014618",
-    "url": "./static/js/main.cc3645df.chunk.js"
+    "revision": "82f86adafcfc4dcafad2",
+    "url": "./static/js/main.76c9a985.chunk.js"
   },
   {
-    "revision": "f0bbfd3b13ddfe9eff5e",
-    "url": "./static/js/runtime-main.a73320e0.js"
+    "revision": "b1195a3cef3dc34a13c7",
+    "url": "./static/js/runtime-main.38b18eea.js"
   },
   {
     "revision": "80ac687a950a4855fc144126566d39e3",
     "url": "./static/media/1024px-AWS_Simple_Icons_AWS_Cloud.svg.80ac687a.png"
+  },
+  {
+    "revision": "691299e76c87c6f88a777ee1530e82d9",
+    "url": "./static/media/1541002205903-removebg-preview.691299e7.png"
   },
   {
     "revision": "234310746c1fdef5264143a478634a51",
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "5257a2d1c84c721cca39891c0cfd21d7",
+    "url": "./static/media/Daco_4533338.5257a2d1.png"
   },
   {
     "revision": "f183094ef38f36841b3fdcbf4a6fb342",
